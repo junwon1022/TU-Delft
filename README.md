@@ -3,24 +3,22 @@
 Welcome to Junwon Yoon's **TU Delft Coursework Repository**! This repository serves as a structured collection of my university assignments and projects. It is intended to help me track my academic progress, share insights, and maintain a well-organized portfolio of my work.
 
 ## 📌 Repository Structure
-The repository is organized by courses and academic periods:
+The repository is organized by courses and academic periods in the following structure:
 
 ```
 📂 TU-Delft
-├── 📂 Course-Name-1
+├── 📂 Course 1
 │   ├── 📂 Assignments
 │   ├── 📂 Projects
-│   ├── 📂 Notes
 │   └── README.md
-├── 📂 Course-Name-2
+├── 📂 Course 2
 │   ├── 📂 Assignments
 │   ├── 📂 Projects
-│   ├── 📂 Notes
 │   └── README.md
 └── README.md
 ```
 
-Each course folder contains subfolders for assignments, projects, and lecture notes.
+Each course folder contains subfolders for assignments and projects.
 
 ## 📚 Courses Included
 This repository includes coursework from various courses I have taken at **TU Delft**. Some of the key subjects covered:
