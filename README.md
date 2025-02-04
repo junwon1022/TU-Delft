@@ -52,7 +52,7 @@ This repository is for **personal and educational use only**. Please adhere to *
 ## 📬 Contact
 If you have any questions or would like to collaborate, feel free to reach out:
 - **Email**: [junwon1022@naver.com]
-- **LinkedIn**: [[Your LinkedIn Profile](https://www.linkedin.com/in/junwon-yoon-a970252b6/)]
+- **LinkedIn**: [https://www.linkedin.com/in/junwonyoon/]
 
 Happy Coding! 🚀
 
