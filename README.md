@@ -38,8 +38,8 @@ Some of the major projects I have worked on:
 
 ## 🛠️ Technologies & Tools
 Throughout my coursework, I have used various programming languages and tools, including:
-- **Programming Languages**: Python, Java, C++, MATLAB, etc.
-- **Tools & Frameworks**: Git, LaTeX, Jupyter Notebook, TensorFlow, etc.
+- **Programming Languages**: Python, Java, C++
+- **Tools & Frameworks**: Git, LaTeX, Jupyter Notebook
 - **Collaboration & Documentation**: GitHub, Overleaf, Markdown
 
 ## 📖 How to Use
@@ -53,8 +53,8 @@ This repository is for **personal and educational use only**. Please adhere to *
 
 ## 📬 Contact
 If you have any questions or would like to collaborate, feel free to reach out:
-- **Email**: [your-email@example.com]
-- **LinkedIn**: [Your LinkedIn Profile]
+- **Email**: [junwon1022@naver.com]
+- **LinkedIn**: [[Your LinkedIn Profile](https://www.linkedin.com/in/junwon-yoon-a970252b6/)]
 
 Happy Coding! 🚀
 
